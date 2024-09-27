@@ -121,7 +121,7 @@ function analyzeSentence(sentence) {
   }
 
   // Output the results
-  console.log(`Length: ${lengthCounter} characters`);
-  console.log(`Words: ${wordCounter}`);
-  console.log(`Vowels: ${vowelCounter}`);
+  // console.log(`Length: ${lengthCounter} characters`);
+  // console.log(`Words: ${wordCounter}`);
+  // console.log(`Vowels: ${vowelCounter}`);
 }

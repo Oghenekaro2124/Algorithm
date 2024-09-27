@@ -17,4 +17,4 @@ function insertionSort(arr) {
   // Example usage:
   const unsortedArray = [64, 34, 25, 12, 22, 11, 90];
   const sortedArray = insertionSort(unsortedArray);
-  console.log("Sorted array:", sortedArray);
+//   console.log("Sorted array:", sortedArray);
